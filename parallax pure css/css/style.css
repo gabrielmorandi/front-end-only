@@ -12,7 +12,6 @@ body {
     height: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
-    font-family: "Luna";
 }
 
 header {
@@ -57,7 +56,7 @@ header * {
 }
 
 .content {
-    margin-top: 100vh;
+    margin-top: 105vh;
     color: black;
 }
 
